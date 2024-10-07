@@ -1,6 +1,9 @@
+<p align="center">
+  <h1 align="center">Documnet-Scanner</h1>  
+</p>
 # document_scanning
 
-This Flutter app allows users to capture images from their device's camera or gallery, edit them using basic editing tools, and export them as a PDFs. It uses Flutter for the frontend, and various Flutter packages like GetX, Image Picker, Image Editor Plus, and PDF for handling functionality such as image capturing, editing, and PDF creation.
+This Flutter app allows users to capture images from their device's camera or gallery, edit them using basic editing tools, and export them as PDFs. It uses Flutter for the frontend, and various Flutter packages like GetX, Image Picker, Image Editor Plus, and PDF for handling functionality such as image capturing, editing, and PDF creation.
 
 Features-
 Capture Image: Users can capture an image using the device's camera.
@@ -24,7 +27,7 @@ get
 Image Picker: For capturing images from the camera or picking them up from the gallery.
 image_picker
 
-Image Editor Plus: For providing simple image editing tools like crop, rotate, etc.
+Image Editor Plus: provides simple image editing tools like crop, rotate, etc.
 image_editor_plus
 
 PDF Widgets: To convert images into PDF documents.
@@ -36,12 +39,7 @@ path_provider
 Open File: To open the generated PDF files directly from the app.
 open_file
 
-<p align="center">
-  <a>
-    <img width="100px" src="./assets/logo.png">
-  </a>
-  <h1 align="center">FitPage-App</h1>  
-</p>
+
 
 ## :camera_flash: Screenshots
 
