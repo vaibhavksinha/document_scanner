@@ -21,7 +21,7 @@ This project uses the following Flutter packages:
 GetX: For state management and navigation.
 get
 
-Image Picker: For capturing images from the camera or picking from the gallery.
+Image Picker: For capturing images from the camera or picking them up from the gallery.
 image_picker
 
 Image Editor Plus: For providing simple image editing tools like crop, rotate, etc.
@@ -35,5 +35,30 @@ path_provider
 
 Open File: To open the generated PDF files directly from the app.
 open_file
+
+<p align="center">
+  <a>
+    <img width="100px" src="./assets/logo.png">
+  </a>
+  <h1 align="center">FitPage-App</h1>  
+</p>
+
+## :camera_flash: Screenshots
+
+<div align="center" style="margin:auto;width:100%;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/light_theme.jpg">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/dark_theme.jpg">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/image_captured.jpg">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/edit_pdf_option.jpg">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/edit.jpg">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/save.jpg">
+<img width="250px" margin="30px" style="margin:20px;" src="./assets/saved_pdf.jpg">
+</div>
+
+<br>
+<br>
+
+
+
 
 
